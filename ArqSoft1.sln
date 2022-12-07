@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArqSoft1", "ArqSoft1.csproj", "{8C030E70-B5A7-4892-AE4F-6BE61B32D9FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C030E70-B5A7-4892-AE4F-6BE61B32D9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C030E70-B5A7-4892-AE4F-6BE61B32D9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C030E70-B5A7-4892-AE4F-6BE61B32D9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C030E70-B5A7-4892-AE4F-6BE61B32D9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {430190B1-2CA2-4B4F-B97D-0C2F705C944B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+{
+  "id": "studentEntry",
+  "title": "Capturar estudiantes",
+  "fields": [
+    {
+      "name": "Nombre",
+      "type": "string",
+      "required": true
+    },
+    {
+      "estId": "Matricula",
+      "type": "string",
+      "required": true
+    }
+  ],
+  "actions": [
+    {
+      {
+        "name": "Salvar",
+        "option": "sal",
+        "handler": "main.Save",
+        "succ": "studentEntry",
+        "fail": "studentFail"
+      },
+      {
+        "name": "Cancelar",
+        "option": "exit",
+        "handler": "main.Cancel",
+        "succ": "Exit",
+        "fail": "Exit"
+      }
+  ]
+}

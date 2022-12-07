@@ -1,0 +1,12 @@
+C:\Users\eluis\source\repos\ArqSoft1\bin\Debug\ArqSoft1.exe.config
+C:\Users\eluis\source\repos\ArqSoft1\bin\Debug\ArqSoft1.exe
+C:\Users\eluis\source\repos\ArqSoft1\bin\Debug\ArqSoft1.pdb
+C:\Users\eluis\source\repos\ArqSoft1\bin\Debug\Json.Net.dll
+C:\Users\eluis\source\repos\ArqSoft1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eluis\source\repos\ArqSoft1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eluis\source\repos\ArqSoft1\obj\Debug\ArqSoft1.csproj.AssemblyReference.cache
+C:\Users\eluis\source\repos\ArqSoft1\obj\Debug\ArqSoft1.csproj.SuggestedBindingRedirects.cache
+C:\Users\eluis\source\repos\ArqSoft1\obj\Debug\ArqSoft1.csproj.CoreCompileInputs.cache
+C:\Users\eluis\source\repos\ArqSoft1\obj\Debug\ArqSoft1.csproj.CopyComplete
+C:\Users\eluis\source\repos\ArqSoft1\obj\Debug\ArqSoft1.exe
+C:\Users\eluis\source\repos\ArqSoft1\obj\Debug\ArqSoft1.pdb
