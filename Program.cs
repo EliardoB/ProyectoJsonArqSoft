@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Json.Net;
 using Newtonsoft.Json;
+using System.IO;
 
 namespace ArqSoft1
 {
@@ -21,12 +22,13 @@ namespace ArqSoft1
         }
         static void Main(string[] args)
         {
-            string jsonPath = @"C:\Users\eluis\source\repos\ArqSoft1\students.json";
-            JsonTextReader reader = new JsonTextReader
+            string jsonPath = @"C:\Users\eluis\Source\Repos\ProyectoJsonArqSoft\students.json";
+            string jsontext = File.ReadAllText(jsonPath);
             student st = new student();
 
-            using (StreamReader)
-            student JSONresult = (student)JsonConvert.DeserializeObject(jsonPath);
+            dynamic JSONresult = JsonConvert.DeserializeObject(jsontext);
+
+            var arr = JSONresult["fields"].Children();
 
             Console.WriteLine(JSONresult);
         }
